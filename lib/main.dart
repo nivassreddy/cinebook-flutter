@@ -45,7 +45,7 @@ class Movie {
 }
 
 const movieList = <Movie>[
-  Movie('The Last Galaxy', 'Sci-Fi • Adventure', '2h 18m', '8.7', 'English',
+  Movie('The Last Galaxy', 'Sci-Fi • Adventur', '2h 18m', '8.7', 'English',
       'A team of explorers travels beyond the known galaxy to discover a mysterious world.',
       Color(0xFF273B80), Icons.rocket_launch),
   Movie('City of Dreams', 'Drama • Romance', '2h 05m', '8.2', 'Telugu',
